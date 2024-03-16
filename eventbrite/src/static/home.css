@@ -1,0 +1,12 @@
+.home{
+    background-image: url('../static/a.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.home>h1{
+    opacity: 90%;
+}
